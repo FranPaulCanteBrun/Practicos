@@ -1,0 +1,11 @@
+body {
+    font-size: xx-large;
+}
+
+img {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100px;
+    height: auto;
+}

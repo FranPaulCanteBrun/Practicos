@@ -1,0 +1,15 @@
+/* a. */
+
+ul:first-of-type li a {
+    color: yellow;
+}
+
+ul:last-of-type li a {
+    color: red;
+}
+
+/* b. */
+ul:last-of-type li:nth-of-type(2) a {
+    color: green;
+}
+

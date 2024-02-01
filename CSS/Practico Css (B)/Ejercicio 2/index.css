@@ -1,0 +1,15 @@
+.img3 img {
+    display: inline;
+    width: 125px;
+    height: 125px;
+}
+
+@media screen and (max-width: 600px) {
+    .img3 img {
+        display: block;
+    }
+    
+}
+
+
+

@@ -1,0 +1,20 @@
+/* Mayor Prioridad */
+
+#ident {
+    background-color: green;
+}
+
+/* Prioridad Media */
+
+.clase {
+    background-color: red;
+}
+
+/* Menor Prioridad */
+
+div {
+    background-color: blue;
+}
+
+
+

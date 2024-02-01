@@ -1,0 +1,56 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.contenedor-main {
+    display: flex;
+    background-color: rgb(206, 206, 206);
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+    color: rgb(37, 131, 255);
+}
+
+span {
+    position: relative;
+    font-weight: 600;
+    padding-bottom: 5px;
+    display: inline-flex;
+}
+
+section {
+    color: rgb(37, 131, 255);
+    max-width: 100%;
+    margin: 10px;
+    font-size: small;
+}
+
+section a {
+    display: block;
+    margin: 7px;
+    text-decoration: none;
+    color: rgb(35, 35, 35);
+}
+
+section hr {
+    width: 100%;
+    position: relative;
+    left: 10px;
+    
+}
+
+.col {
+    border-top: solid 1px rgb(37, 131, 255);
+}
+
+.tienda {
+    display: inline-block;
+    width: 135px;
+    height: 45px;
+    margin: 5px;
+    
+}
